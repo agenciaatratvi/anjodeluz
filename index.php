@@ -112,7 +112,7 @@ $csrf = csrf_token();
             <button class="combo-button" onclick="buyCombo()">QUERO 2 UNIDADES</button>
         </div>
 
-        <div class="offer">FRETE GRÁTIS • ENTREGA ESTIMADA EM 6 A 11 DIAS</div>
+        <div class="offer">FRETE GRÁTIS • ENTREGA ESTIMADA EM 2 A 7 DIAS</div>
         <button class="buy-button" onclick="buy()">COMPRAR 1 UNIDADE AGORA</button>
         <div class="payment-info">Pagamento 100% via PIX • Aprovação Imediata</div>
         <div class="guarantee-badge">
@@ -159,7 +159,7 @@ $csrf = csrf_token();
             <div class="delivery-row"><span>Produto</span><strong>Cascata de Estrelas do Anjo Guardião™</strong></div>
             <div class="delivery-row"><span>Valor</span><strong id="display-delivery-value">R$ 47,90</strong></div>
             <div class="delivery-row"><span>Frete</span><strong>Grátis</strong></div>
-            <div class="delivery-row"><span>Prazo informado</span><strong>6 a 11 dias</strong></div>
+            <div class="delivery-row"><span>Prazo informado</span><strong>2 a 7 dias</strong></div>
             <div class="delivery-row"><span>Pagamento</span><strong>Via PIX</strong></div>
             <div class="delivery-row"><span>Rastreamento</span><strong>Disponível</strong></div>
         </div>
@@ -170,7 +170,7 @@ $csrf = csrf_token();
         <details open><summary>Qual é o valor do produto?</summary><p>O valor apresentado nesta oferta é de <strong id="display-faq-price">R$ 47,90</strong>.</p></details>
         <details><summary>A Cascata funciona com bateria?</summary><p>Sim! Funciona com bateria, sem necessidade de fios ou tomadas, facilitando a instalação em qualquer lugar.</p></details>
         <details><summary>O frete é grátis?</summary><p>Sim. A oferta informa frete grátis.</p></details>
-        <details><summary>Qual é o prazo de entrega?</summary><p>O prazo informado para entrega é de <strong>6 a 11 dias</strong>.</p></details>
+        <details><summary>Qual é o prazo de entrega?</summary><p>O prazo informado para entrega é de <strong>2 a 7 dias</strong>.</p></details>
         <details><summary>Vou receber código de rastreamento?</summary><p>Sim. A oferta informa envio com código de rastreamento.</p></details>
         <details><summary>Quais formas de pagamento estão disponíveis?</summary><p>Aceitamos pagamento exclusivo via <strong>PIX</strong>, garantindo aprovação imediata e processamento mais rápido do seu pedido.</p></details>
     </section>
